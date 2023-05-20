@@ -37,8 +37,7 @@ I'm also a student at [Estácio], a Computer Science college.
 
 ### Socials
 
-<p align="left">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="https://www.linkedin.com/in/s%C3%A9rgio-luiz-de-souza-filho?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKMBYsGspS5S4MH38bGDd8A%3D%3D" align="left"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
 
 

@@ -11,20 +11,20 @@ I'm also a student at [Estácio], a Computer Science college.
 * 🌍 I live in Cataguases - MG, Brazil
 * ✉️ You can contact me at [sergioluiz.souza1@outlook.com]
 * 🚀 I currently work for Energisa.
-* 🧠 I'm learning C# with .NET, as well as HTML&CSS with JavaScript.
+* 🧠 I am learning Java as well as already having knowledge in .NET and Python, my goal is to become an excellent Back-End developer.
 * 🤝 I'm open to collaborating on high impact projects on people's lives.
 * ⚡ I love sports and my favorite is Football.
 
 ### Skills
 
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"</a>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"</a>
 
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>    
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>    
   
 <p align="left">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>     
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>     
 
 <p align="left">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>  
@@ -33,7 +33,13 @@ I'm also a student at [Estácio], a Computer Science college.
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>  
 
 <p align="left">
-<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" /></a>  
+<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" /></a> 
+
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/></a>
 
 ### Socials
 

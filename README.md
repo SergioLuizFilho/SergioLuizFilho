@@ -6,7 +6,7 @@ Back-End Development Student
 
 I'm a 20 year old developer, I love to code and figure out how to solve deep problems using cutting edge technology. My main focus is Back-End development.
 
-I'm also a student at [Estácio], a Computer Science college.
+I'm also a student at [Estácio](https://www.google.com/search?q=universidade+est%C3%A1cio+de+s%C3%A1&oq=Univeridade+es&gs_lcrp=EgZjaHJvbWUqCQgCEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMg8IBBAAGAoYgwEYsQMYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABNIBCDcxNTlqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8), a Computer Science college.
 
 * 🌍 I live in Cataguases - MG, Brazil
 * ✉️ You can contact me at [sergioluiz.souza1@outlook.com](sergioluiz.souza1@outlook.com)
